@@ -28,7 +28,7 @@ This is a quick mock up of an algorithm to be used for the Mantis audio synthesi
 
 5. **Generate the frequency database** (one time)
 	`cd db`  
-    `python3 generate_rgb_to_freq_db.py`  
+    `python generate_rgb_to_freq_db.py`  
    This will create the `rgb_to_frequency.db` 
    inside the `db` folder where it needs to be.
 
