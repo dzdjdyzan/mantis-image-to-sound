@@ -15,7 +15,7 @@ This is a quick mock up of an algorithm to be used for the Mantis audio synthesi
 ## Setup:
 
 1. **Clone the repository**  
-   `git clone ... && cd image_sonification`
+   `git clone ... && cd mantis-image-to-sound-main`
 
 2. **Create a virtual environment**  
    `python -m venv venv` and activate it.
