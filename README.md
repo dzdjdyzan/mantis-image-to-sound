@@ -6,6 +6,8 @@ Roughly, this algorithm scans any image by column left to right and generates se
 
 This is a quick mock up of an algorithm to be used for the Mantis audio synthesizer. The final version of Mantis will use this algorithm to initially generate a short audio file whose data is generated from the rgb pixel data of a user selected image. The user will then be able to further scan pixel data which will trigger grains of sound to be played from the initially generate audio file.
 
+WARNING: The resulting generated audio can sometimes be harsh particularily in the higher frequency spectrum, it is reccommended for now to first play the audio at a low enough volume to avoid discomfort. Increase the volume slowly afterwards to your comfort and enjoy the various sound worlds.
+
 ## Requirements:
 
 - Python 3.8+
