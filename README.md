@@ -10,7 +10,7 @@ This is a quick mock up of an algorithm to be used for the Mantis audio synthesi
 
 - Python 3.8+
 - A C++ compiler
-- Windows 10 or above, macOS Monterey 12.7.5 or above
+- macOS Monterey 12.7.5 or above (for now only works on mac, further testing on windows and linux machines required)
 
 ## Setup:
 
