@@ -1,3 +1,4 @@
+#define _USE_MATH_DEFINES
 #include "thread_pool.h"
 #include <pybind11/pybind11.h>
 #include <pybind11/numpy.h>
